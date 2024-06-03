@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active {
+  color: #7d5c1c;
+  opacity: 12;
+  font-weight: 500;
+}
+/* dialog::backdrop {
+  background: rgba(1, 0, 0, 0.5);
+} */
